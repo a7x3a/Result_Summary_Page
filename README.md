@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: https://github.com/a7x3a/Result_Summary_Page/
-- Live Site URL: https://a7x3a.github.io/Result_Summary_Page/public/index.html
+- Live Site URL: https://a7x3a.github.io/Result_Summary_Page/public/
 
 
 ### Built with
